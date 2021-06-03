@@ -1,3 +1,3 @@
 # PAGINA-DE-CAPTURA
 
-<img src="./image/Print-Pagina.png" alt="Pagina"/>
+<img src="Print-Pagina.png" alt="Pagina"/>
